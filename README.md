@@ -1,24 +1,23 @@
-# README
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://www.theodinproject.com">
+    <img src="https://www.theodinproject.com/assets/odin-logo-2d729f16279e9fc3b58ce847eacf07f883bdfc95eb23bb5064ed59d36ef551d6.svg" alt="Logo">
+  </a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  <h3 align="center">Re-Former</h3>
 
-Things you may want to cover:
+  <p align="center">
+    A Ruby on Rails project from The Odin Project
+    <br />
+    <a href="https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms"><strong>View the assignment »</strong></a>
+    <br />
+  </p>
+</p>
 
-* Ruby version
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a project from the Ruby on Rails course in The Odin Project's curriculum.<br />
+This project focuses on building HTML forms and the helpers that Ruby on Rails provides for them.<br />
+A link to the full description of the assignment can be found above.
